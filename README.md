@@ -1,9 +1,8 @@
 # Leetcode_Challenges
 
 ---
-
 **Ngày 1:**  
-1. **Two Sum** – [Link](https://leetcode.com/problems/two-sum/)
+1.**Two Sum** – [Link](https://leetcode.com/problems/two-sum/)
 
 **Ngày 2:**  
 2. **Add Two Numbers** – [Link](https://leetcode.com/problems/add-two-numbers/)
